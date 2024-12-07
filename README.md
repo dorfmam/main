@@ -1,2 +1,5 @@
-Hello There!
-I'm currently a student at UNESA University looking for new knowledges. I'm learning: Python, SQL and Pentest.
+Olá, sou Caio Dorfmam! 👋
+
+Estudante de Análise e Desenvolvimento de Sistemas 🎓
+Focado em Desenvolvimento de Software e Aprendizado Contínuo 🚀
+Atualmente explorando Python, Git, SQL e Machine Learning 💻
