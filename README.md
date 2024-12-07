@@ -1,4 +1,4 @@
-<h1> Olá, sou Caio Dorfmam!</h1>
+<h1> Olá, sou Caio Dorfmam! 👋</h1>
 
 <p>
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas. <br>
@@ -12,5 +12,17 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="25"" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Deep%20Learning-272727?style=flat&logo=tensorflow&logoColor=orange" height="25" />
+</p>
+<h2> Contato </h2>
+
+### 📬 Contato
+
+<p align="left">
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="25" />
+  </a>
+  <a href="https://www.linkedin.com/in/seuperfil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" />
+  </a>
 </p>
 
