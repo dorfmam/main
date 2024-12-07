@@ -4,8 +4,7 @@
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas. <br>
 💻 Atualmente estou focado em Python, Git, SQL, Machine Learning e Deep Learning.
 </p>
-<br>
-### 🛠️ Tecnologias e Ferramentas  
+**🛠️ Tecnologias e Ferramentas**  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25" />
