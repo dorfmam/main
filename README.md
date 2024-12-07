@@ -7,11 +7,11 @@
 <h2>🛠️ Tecnologias e Ferramentas</h2>  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="25"" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-272727?style=flat&logo=tensorflow&logoColor=orange" height="25" />
+  <img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-336791?style=flat-square&logo=postgresql&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-272727?style=flat-square&logo=tensorflow&logoColor=orange" height="25" />
 </p>
 <h2> Contato </h2>
 
@@ -19,10 +19,9 @@
 
 <p align="left">
   <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=gmail&logoColor=white" height="25" />
   </a>
   <a href="https://www.linkedin.com/in/seuperfil/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" />
   </a>
 </p>
-
