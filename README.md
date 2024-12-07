@@ -15,8 +15,6 @@
 </p>
 <h2> Contato </h2>
 
-<h2> Contato </h2>
-
 <p align="left">
   <a href="mailto:contatodorfmam@email.com">
     <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="25" />
