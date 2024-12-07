@@ -22,6 +22,6 @@
   <a href="https://www.linkedin.com/in/caio-dorfmam-156a43334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" />
   <a href="https://www.instagram.com/yezcayus/">
-    <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25" />
-  </a>
+  <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white&label=" height="25" />
+</a>
 </p>
