@@ -1,9 +1,9 @@
 <h1> Olá, sou Caio Dorfmam!</h1>
 
 <p>
-🎓 Como estudante de Análise e Desenvolvimento de Sistemas, desejo aprimorar minhas habilidades práticas com a programação e em ferramentas direcionadas para esta área, desenvolvendo projetos ou colaborando em projetos para impactar de forma positiva o mundo da tecnologia.
+🎓 Sou um estudante de análise e desenvolvimento de sistemas apaixonado pela tecnologia desde cedo.
 
-  💻 Atualmente estou focado em Python, Git, SQL, Machine Learning e Deep Learning
+  💻 Atualmente estou estudando: Python, PostgreSQL, Machine Learning & Deep Learning e AWS
 </p>
 <h2> Tecnologias e Ferramentas </h2>  
 
