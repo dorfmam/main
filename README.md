@@ -3,7 +3,7 @@
 <p>
 🎓 Sou um estudante de análise e desenvolvimento de sistemas apaixonado pela tecnologia desde cedo.
 
-  💻 Atualmente estou estudando: Python, PostgreSQL, Machine Learning & Deep Learning e AWS
+  💻 Atualmente estou estudando: Python, PostgreSQL, Machine Learning & Deep Learning e AWS. Possuo interesse em aprender segurança cibernética, JavaScript e Node.js futuramente.
 </p>
 <h2> Tecnologias e Ferramentas </h2>  
 
