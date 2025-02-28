@@ -16,6 +16,13 @@
 
 <h2> Minhas Redes de Contato</h2>
 
-![E-mail](https://img.shields.io/badge/-E--mail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:contatodorfmam@gmail.com)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/caio-dorfmam-156a43334)
-![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/syscayus?igsh=MXFjcXc0YTloODAwdQ==)
+<p align="left">
+  <a href="mailto:contatodorfmam@email.com">
+    <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="20" />
+  </a>
+  <a href="https://www.linkedin.com/in/caio-dorfmam-156a43334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20" />
+  <a href="https://www.instagram.com/yezcayus/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="20" />
+</a>
+</p>
