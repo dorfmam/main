@@ -1,19 +1,17 @@
 <h1> Olá, sou Caio Dorfmam!</h1>
 
 <p>
-🎓 Sou um estudante de análise e desenvolvimento de sistemas apaixonado pela tecnologia desde cedo.
-
-  💻 Atualmente estou estudando: Python, PostgreSQL, Machine Learning & Deep Learning e AWS. Possuo interesse em aprender segurança cibernética, JavaScript e Node.js futuramente.
+🎓 Sou desenvolvedor back-end, apaixonado pela tecnologia desde cedo e buscando constatemente evoluir a mim mesmo todos os dias. Tenho como objetivo principal no momento me tornar um desenvolvedor full-stack.
 </p>
-<h2> Tecnologias e Ferramentas </h2>  
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-272727?style=flat&logo=tensorflow&logoColor=orange" height="25" />
-</p>
+<h2> Tecnologias e Ferramentas que estudo/trabalho: </h2>  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+
 <h2> Contato </h2>
 
 <p align="left">
