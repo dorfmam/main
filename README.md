@@ -4,7 +4,7 @@
 I'm a back-end developer passionate about technology and constantly striving for self-improvement. I have a strong interest in API development and aim to become a full-stack developer. Currently, I'm working on an automation project using Python and SQL while also developing a web form to interact with the back-end.
 </p>
 
-<h2> Tools and Technlogies </h2>  
+<h2> Tools and Technologies </h2>  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
