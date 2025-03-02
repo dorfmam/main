@@ -1,4 +1,4 @@
-<h2> Hi there! I'm Caio Dorfmam</h2>
+<h2> Hi there! I'm Caio Dorfmam 👋🏻 </h2>
 
 <p>
 I'm a back-end developer passionate about technology and constantly striving for self-improvement. I have a strong interest in API development and aim to become a full-stack developer. Currently, I am working on an automation project using Python and SQL while also developing a web form to interact with the back-end.
@@ -14,7 +14,7 @@ I'm a back-end developer passionate about technology and constantly striving for
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
-<h2> Contact Me/h2>
+<h2> Personal Contacts /h2>
 
 <p align="left">
   <a href="mailto:contatodorfmam@email.com">
