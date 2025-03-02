@@ -1,7 +1,7 @@
 <h1> Hi there! I'm Caio Dorfmam 👋🏻 </h1>
 
 <p>
-I'm a back-end developer passionate about technology and constantly striving for self-improvement. I have a strong interest in API development and aim to become a full-stack developer. Currently, I am working on an automation project using Python and SQL while also developing a web form to interact with the back-end.
+I'm a back-end developer passionate about technology and constantly striving for self-improvement. I have a strong interest in API development and aim to become a full-stack developer. Currently, I'm working on an automation project using Python and SQL while also developing a web form to interact with the back-end.
 </p>
 
 <h2> Tools and Technlogies </h2>  
