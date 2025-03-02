@@ -1,10 +1,10 @@
-<h2> Olá, sou Caio Dorfmam!</h2>
+<h2> Hi there! I'm Caio Dorfmam</h2>
 
 <p>
-🎓 Sou desenvolvedor back-end, apaixonado pela tecnologia desde cedo e buscando constatemente evoluir a mim mesmo todos os dias. Tenho como objetivo principal no momento me tornar um desenvolvedor full-stack.
+I'm a back-end developer passionate about technology and constantly striving for self-improvement. I have a strong interest in API development and aim to become a full-stack developer. Currently, I am working on an automation project using Python and SQL while also developing a web form to interact with the back-end.
 </p>
 
-<h2> Tecnologias e Ferramentas que estudo/trabalho: </h2>  
+<h2> Tools and Technlogies </h2>  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
-<h2> Minhas Redes de Contato</h2>
+<h2> Contact Me/h2>
 
 <p align="left">
   <a href="mailto:contatodorfmam@email.com">
