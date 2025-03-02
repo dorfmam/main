@@ -18,11 +18,11 @@ I'm a back-end developer passionate about technology and constantly striving for
 
 <p align="left">
   <a href="mailto:contatodorfmam@email.com">
-    <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="22" />
   </a>
   <a href="https://www.linkedin.com/in/caio-dorfmam-156a43334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="22" />
   <a href="https://www.instagram.com/syscayus/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="22" />
 </a>
 </p>
