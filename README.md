@@ -17,6 +17,10 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
-<img src="https://camo.githubusercontent.com/7e7ea222ce3a39e84675c35a70fe9af186c01fba3b9acf7dc600998f3bfe56ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d65253230436f6e746174652532303a2d3030303030303f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d303030303030" alt="Me contate" data-canonical-src="https://img.shields.io/badge/-Me%20Contate%20:-000000?style=for-the-badge&amp;labelColor=000000" style="max-width: 100%;">
+<h2>Contact Me:</h2>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodorfmam@gmail.com)
+<img src="" />
+<img src="" />
+
 
 <img width="100%" src="https://camo.githubusercontent.com/a230db6f8a2c37d7b396b9c3af9bd498fefe22362fc28298d460d2fdb8182e7e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d356331626635266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=5c1bf5&amp;height=120&amp;section=footer" style="max-width: 100%;">
