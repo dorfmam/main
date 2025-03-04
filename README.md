@@ -6,6 +6,8 @@
 
 <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;theme=midnight-purple" style="max-width: 100%;">
 
+<h2>Tools</h2>
+
 <div dir="auto"><br>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width: 100%;">
@@ -33,10 +35,10 @@
   </a>
 </div>
 
-<h2>Contact Me:</h2>
+<h2>Contact</h2>
 <a href="mailto:contatodorfmam@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="27" />
 <a href="https://www.linkedin.com/in/caio-dorfmam-156a43334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="27" />
 
 <img width="100%" src="https://camo.githubusercontent.com/a230db6f8a2c37d7b396b9c3af9bd498fefe22362fc28298d460d2fdb8182e7e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d356331626635266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=5c1bf5&amp;height=120&amp;section=footer" style="max-width: 100%;">
