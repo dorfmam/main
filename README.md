@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio+Dorfmam;I'm+a+Full+Stack+Developer;Be+Welcome!+:%29" alt="Typing SVG" style="max-width: 100%;">
 
-<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117">
 <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dorfmam&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" style="max-width: 100%;">
 
 <h2>Main Languages:</h2>
