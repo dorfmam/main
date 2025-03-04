@@ -6,7 +6,7 @@
 
 <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;theme=midnight-purple" style="max-width: 100%;">
 
-<h2>Tools</h2>
+<h1>Tools that I Use</h1>
 
 <div dir="auto"><br>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -35,7 +35,7 @@
   </a>
 </div>
 
-<h2>Contact</h2>
+<h1>Contact Me!</h1>
 <a href="mailto:contatodorfmam@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="27" />
 <a href="https://www.linkedin.com/in/caio-dorfmam-156a43334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
