@@ -6,14 +6,32 @@
 
 <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;theme=midnight-purple" style="max-width: 100%;">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="25" height="25">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="25" height="25" style="display: inline;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="25" height="25" style="display: inline;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="25" height="25">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js Logo" width="25" height="25">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="25" height="25">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="25" height="25">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="25" height="25">
+<div dir="auto"><br>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="max-width: 100%;">
+  </a>
+</div>
 
 <h2>Contact Me:</h2>
 <a href="mailto:contatodorfmam@gmail.com">
