@@ -2,7 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio+Dorfmam;I'm+a+Full+Stack+Developer;Be+Welcome!+:%29" alt="Typing SVG" style="max-width: 100%;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&layout=compact&theme=radical" width="500" />    <img src="https://github-readme-stats.vercel.app/api?username=dorfmam&show_icons=true&theme=radical" width="500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&layout=compact&theme=radical" width="450" />
+<img src="https://github-readme-stats.vercel.app/api?username=dorfmam&show_icons=true&theme=radical" width="420" />
 
 <h2>Main Languages:</h2>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -18,7 +19,9 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 <h2>Contact Me:</h2>
+<a href="mailto:contatodorfmam@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="40" />
 <a href="https://www.linkedin.com/in/caio-dorfmam-156a43334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="40" />
 
 <img width="100%" src="https://camo.githubusercontent.com/a230db6f8a2c37d7b396b9c3af9bd498fefe22362fc28298d460d2fdb8182e7e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d356331626635266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=5c1bf5&amp;height=120&amp;section=footer" style="max-width: 100%;">
