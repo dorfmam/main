@@ -1,5 +1,7 @@
 <img width="100%" src="https://camo.githubusercontent.com/52313a0ff6623ee9b44a8a2fd679c123e80da6c47ded007db165be3ad8117dbd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d356331626635266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=5c1bf5&amp;height=120&amp;section=header" style="max-width: 100%;">
 
+<img src="https://camo.githubusercontent.com/fe372d5120bbfc65653509316207f75f0c724ff1defd021b57d3fbb63a16b91e/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f636f6c6f723d3032633933312673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266c696e65733d48454c4c4f2c2b4d592b4e414d452b69732b416d616e64612b43617374726f3b492b616d2b612b4261636b2b456e642b4465763b42652b57656c636f6d65212b3a253239" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com/?color=02c931&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+my+name+is+Caio+Dorfmam;I'm+a+Full-Stack+Developer;Be+Welcome!+:%29" style="max-width: 100%;">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&layout=compact&theme=radical)
 ![Statistics](https://github-readme-stats.vercel.app/api?username=dorfmam&show_icons=true&theme=radical)
 
