@@ -4,6 +4,8 @@
 
 <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dorfmam&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" style="max-width: 100%;">
 
+<img src="https://camo.githubusercontent.com/ff1ddd91bf56f870d548b3a23540c73b59a35b4099e7ca48cc540a8ccd386b4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416e614a756c69614e266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDorfmam&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
+
 <h2>Main Languages:</h2>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
