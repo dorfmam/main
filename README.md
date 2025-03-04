@@ -1,6 +1,6 @@
 <img width="100%" src="https://camo.githubusercontent.com/52313a0ff6623ee9b44a8a2fd679c123e80da6c47ded007db165be3ad8117dbd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d356331626635266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=5c1bf5&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Caio+Dorfmam.;I'm+a+Full-Stack+Developer.;Be+Welcome!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Caio+Dorfmam.+I'm+a+Full-Stack+Developer." alt="Typing SVG" /></a>
 
 <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dorfmam&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" style="max-width: 100%;">
 
