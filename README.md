@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio+Dorfmam;I'm+a+Full+Stack+Developer;Be+Welcome!+:%29" alt="Typing SVG" style="max-width: 100%;">
 
-<img width="41%" height="195px" src="https://camo.githubusercontent.com/c79fa3ae7fbd1eceeb93a812218086c7901d9d486b6295f83d789fd042e94ddb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d616e6469732d6e6373266c61796f75743d636f6d7061637426686964655f626f726465723d74727565267469746c655f636f6c6f723d35633162663526746578745f636f6c6f723d3032633933312662675f636f6c6f723d306431313137" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;hide_border=true&amp;title_color=5c1bf5&amp;text_color=02c931&amp;bg_color=0d1117" style="max-width: 100%;">
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117">
 <img src="https://github-readme-stats.vercel.app/api?username=dorfmam&show_icons=true&theme=radical" width="420" />
 
 <h2>Main Languages:</h2>
