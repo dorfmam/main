@@ -6,6 +6,13 @@
 
 <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;theme=midnight-purple" style="max-width: 100%;">
 
+<style>
+  img {
+    display: inline-block;
+    margin-right: 10px;
+  }
+</style>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="25" height="25">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="25" height="25">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="25" height="25">
