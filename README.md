@@ -1,57 +1,42 @@
 <img width="100%" src="https://camo.githubusercontent.com/52313a0ff6623ee9b44a8a2fd679c123e80da6c47ded007db165be3ad8117dbd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d356331626635266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=5c1bf5&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-### <div align="center">Olá! Sou Caio Dorfmam, estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full- Stack</div>  
-  
+<img src="https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio+Dorfmam;I'm+a+Full+Stack+Developer;Be+Welcome!+:%29" alt="Typing SVG" style="max-width: 100%;">
 
-- Atualmente estudando JavaScript, Tailwind CSS e Node.js  
-  
+<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dorfmam&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" style="max-width: 100%;">
 
-- Interessado por Machine Learning e desenvolvimento de IAs  
-  
-
-- Sinta-se a vontade para contribuir comigo ou caso queira contribuição!  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Front-End  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Back-End  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
+<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;theme=midnight-purple" style="max-width: 100%;">
 <br>
-<h1>Connect With Mw!</h1>
+<h1>Ferramentas que utilizo:</h1>
+
+<div dir="auto"><br>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="max-width: 100%;">
+  </a>
+</div>
+
+<br>
+<h1>Contatos Pessoais:</h1>
 <a href="mailto:contatodorfmam@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="27" />
 <a href="https://www.linkedin.com/in/caio-dorfmam-156a43334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
