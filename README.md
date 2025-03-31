@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio+Dorfmam;I'm+a+Full+Stack+Developer;Be+Welcome!+:%29" alt="Typing SVG" style="max-width: 100%;">
 
+<p> Como desenvolvedor de software e estudante do curso de análise e desenvolvimento de sistemas, a tecnologia sempre foi minha paixão. Desde cedo, já expressava meu interesse por saber como os computadores funcionavam. Iniciei então, minha tragetória na área da tecnologia em 2024. Desde então, estudo constantemente tecnologias que utilizo, aplicando-as em projetos pessoais, acadêmicos e em contribuições em projetos open source. Meus conhecimentos incluem Python, PostgreSQL, HTML, CSS, JavaScript, Node.js e frameworks como Flask e Express.js. Meus principais interesses estão relacionados as áreas de Análise & Ciência de Dados e Desenvolvimento Full-Stack. </p>
+
 <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dorfmam&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" style="max-width: 100%;">
 
 <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;theme=midnight-purple" style="max-width: 100%;">
