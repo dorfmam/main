@@ -31,6 +31,8 @@
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/express-original.svg">
+    <img align="center" alt="Express.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/express-original.svg" style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
