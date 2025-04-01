@@ -1,10 +1,10 @@
 <img width="100%" src="https://camo.githubusercontent.com/52313a0ff6623ee9b44a8a2fd679c123e80da6c47ded007db165be3ad8117dbd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d356331626635266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=5c1bf5&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio+Dorfmam;I'm+a+Full+Stack+Developer;Be+Welcome!+:%29" alt="Typing SVG" style="max-width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio+Dorfmam;I'm+a+Software+Developer;Be+Welcome!+:%29" alt="Typing SVG" style="max-width: 100%;">
 
-<h2>🌟 Bem-vindo(a), sou Caio Dorfmam e sou Desenvolvedor de Software</h2>
-<p>💻 <strong>Graduando em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá</strong></p><br>
-<p>✋ <strong>Apaixonado pela tecnologia desde criança!</strong></p><br>
+<p>💻 <strong>Graduando em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá</strong></p>
+<p>✋ <strong>Apaixonado pela tecnologia desde criança!</strong></p>
+<p>📉 <strong>Interessado pela área de Ciência de Dados e Desenvolvimento Full-Stack</strong></p>
 
 <img width="100%" height="172px" src="https://github-readme-stats.vercel.app/api?username=dorfmam&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true" style="max-width: 100%;">
 
