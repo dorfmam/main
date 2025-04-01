@@ -4,7 +4,7 @@
 
 <p> Como desenvolvedor de software e estudante do curso de análise e desenvolvimento de sistemas, a tecnologia sempre foi minha paixão. Desde cedo, já expressava meu interesse por saber como os computadores funcionavam. Iniciei então, minha tragetória na área da tecnologia em 2024. Desde então, estudo constantemente tecnologias que utilizo, aplicando-as em projetos pessoais, acadêmicos e em contribuições em projetos open source. Meus conhecimentos incluem Python, PostgreSQL, HTML, CSS, JavaScript, Node.js e frameworks como Flask e Express.js. Meus principais interesses estão relacionados as áreas de Análise & Ciência de Dados e Desenvolvimento Full-Stack. </p>
 
-<img width="100%" height="172px" src="https://github-readme-stats.vercel.app/api?username=dorfmam&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" style="max-width: 100%;">
+<img width="100%" height="172px" src="https://github-readme-stats.vercel.app/api?username=dorfmam&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true" style="max-width: 100%;">
 
 <img width="100%" height="172px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
 <br>
