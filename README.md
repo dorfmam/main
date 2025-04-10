@@ -19,15 +19,19 @@
 <hr>
 <h2>🛠️ Tecnologias & Ferramentas</h2>
 <h3>💻 Linguagens de Programação</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=js,py,ts)](https://skillicons.dev)
 
 <h3>🌐 Tecnologias Web</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
 
 <h3>⚙️ Frameworks & Bibliotecas</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=express,flask,nodejs)](https://skillicons.dev)
 
 <h3>⚙📊 Banco de Dados & Versionamento</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=postgres,git)](https://skillicons.dev)
 <hr>
 <h2>📫 Vamos Nos Conectar?</h2>
