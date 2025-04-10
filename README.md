@@ -2,9 +2,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio+Dorfmam;I'm+a+Software+Developer;Be+Welcome!+:%29" alt="Typing SVG" style="max-width: 100%;">
 <hr>
+<h1>Sobre Mim</h1>
+<p>Bem-vindo(a) ao meu espaço no GitHub! Sou um <strong>desenvolvedor de software</strong> apaixonado por criar <strong>soluções inovadoras para problemas reais</strong>. Estou em uma jornada constante de aprendizado e crescimento. Se você está aqui, vamos aprender e crescer juntos!</p>
+<hr>
+<h2>Formação e Interesses</h2>
 <ul>
-  <li>💻 Graduando em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá</li>
-  <li>✋ Apaixonado pela tecnologia desde criança!</li>
+  <li>🎓 Graduando em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá</li>
+  <li>💻 Apaixonado pela tecnologia desde criança!</li>
   <li>📉 Interessado pela área de Ciência de Dados e Desenvolvimento Full-Stack</li>
 </ul>
 <hr>
@@ -13,36 +17,10 @@
 
 <img width="100%" height="172px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
 <hr>
-<h2>🚀 Tecnologias Que Domino</h2>
+<h2>🛠️ Tecnologias & Ferramentas</h2><br>
+<h3>Linguagens de Programação</h3>
 
-<div dir="auto"><br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img align="center" alt="Python" height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width: 100%;">
-  </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="JavaScript" height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="max-width: 100%;">
-  </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img align="center" alt="HTML5" height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-  </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img align="center" alt="CSS3" height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-  </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align="center" alt="React" height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width: 100%;">
-  </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Node.js" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/express-original.svg">
-    <img align="center" alt="Express.js" height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="max-width: 100%;">
-  </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="PostgreSQL" height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
-  </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img align="center" alt="Git" height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="max-width: 100%;">
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python)](https://skillicons.dev)
 
 <br>
 <h2>📫 Vamos Nos Conectar?</h2>
