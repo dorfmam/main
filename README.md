@@ -17,12 +17,19 @@
 
 <img width="100%" height="172px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
 <hr>
-<h2>🛠️ Tecnologias & Ferramentas</h2><br>
-<h3>Linguagens de Programação</h3>
+<h2>🛠️ Tecnologias & Ferramentas</h2>
+<h3>💻 Linguagens de Programação</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,py,ts)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python)](https://skillicons.dev)
+<h3>🌐 Tecnologias Web</h3>
+[![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
 
-<br>
+<h3>⚙️ Frameworks & Bibliotecas</h3>
+[![My Skills](https://skillicons.dev/icons?i=express,flask,nodejs)](https://skillicons.dev)
+
+<h3>⚙📊 Banco de Dados & Versionamento</h3>
+[![My Skills](https://skillicons.dev/icons?i=postgres,git)](https://skillicons.dev)
+<hr>
 <h2>📫 Vamos Nos Conectar?</h2>
 <a href="mailto:contatodorfmam@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="27" />
