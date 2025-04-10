@@ -2,10 +2,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio+Dorfmam;I'm+a+Software+Developer;Be+Welcome!+:%29" alt="Typing SVG" style="max-width: 100%;">
 <hr>
-<h1>Sobre Mim</h1>
+<h1>🌟Sobre Mim</h1>
 <p>Bem-vindo(a) ao meu espaço no GitHub! Sou um <strong>desenvolvedor de software</strong> apaixonado por criar <strong>soluções inovadoras para problemas reais</strong>. Estou em uma jornada constante de aprendizado e crescimento. Se você está aqui, vamos aprender e crescer juntos!</p>
 <hr>
-<h2>Formação e Interesses</h2>
+<h2>🖥️ Formação e Interesses</h2>
 <ul>
   <li>🎓 Graduando em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá</li>
   <li>💻 Apaixonado pela tecnologia desde criança!</li>
@@ -34,12 +34,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,git)](https://skillicons.dev)
 <hr>
-<h2>📫 Vamos Nos Conectar?</h2>
-<a href="mailto:contatodorfmam@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-0077B5?style=flat&logo=gmail&logoColor=white" height="27" />
-<a href="https://www.linkedin.com/in/caio-dorfmam-156a43334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="27" />
- <a href="https://www.instagram.com/syscayus/">
-    <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" height="27" />
+<h2>🌱 Atualmente Aprendendo:</h2>
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) **Nest.js**: Aperfeiçoando o desenvolvimento de aplicações back-end escaláveis e modernas com Node.js.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) **Next.js**: Otimizando o desenvolvimento de interfaces web com foco em performance, SEO e experiência do usuário.
+
+<h2>📫 Vamos Conversar?</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-dorfmam-156a43334)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodorfmam@gmail.com)
+
+<img src="https://raw.githubusercontent.com/JheniferFM/Caio+Dorfmam/output/snake.svg" alt="Snake animation" />
 
 <img width="100%" src="https://camo.githubusercontent.com/a230db6f8a2c37d7b396b9c3af9bd498fefe22362fc28298d460d2fdb8182e7e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d356331626635266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=5c1bf5&amp;height=120&amp;section=footer" style="max-width: 100%;">
