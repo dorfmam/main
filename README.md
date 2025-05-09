@@ -34,11 +34,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,git)](https://skillicons.dev)
 <hr>
-<h2>🌱 Currently Learning:</h2>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) : Enhancing web interface development with a focus on component reusability, interactivity, and scalability. <br>
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) : Streamlining UI development with utility-first classes, ensuring responsiveness, performance, and design consistency.
-<hr>
 <h2>📫 Let's Connect?</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-dorfmam-156a43334)
