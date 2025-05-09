@@ -34,10 +34,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,git)](https://skillicons.dev)
 <hr>
-<h2>🌱 Atualmente Aprendendo:</h2>
+<h2>🌱 Currently Learning:</h2>
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) **Nest.js**: Aperfeiçoando o desenvolvimento de aplicações back-end escaláveis e modernas com Node.js.<br>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) **Next.js**: Otimizando o desenvolvimento de interfaces web com foco em performance, SEO e experiência do usuário.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) : Enhancing web interface development with a focus on component reusability, interactivity, and scalability. <br>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) : Streamlining UI development with utility-first classes, ensuring responsiveness, performance, and design consistency.
 <hr>
 <h2>📫 Vamos Conversar?</h2>
 
