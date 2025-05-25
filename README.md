@@ -15,7 +15,7 @@
 <h2>📊 My Statistics</h2>
 <img width="100%" height="172px" src="https://github-readme-stats.vercel.app/api?username=dorfmam&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true" style="max-width: 100%;">
 
-<img width="100%" height="172px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
+<img width="100%" height="172px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;theme=tokyonight" style="max-width: 85%;">
 <hr>
 <h2>🛠️ Technologies & Tools</h2>
 <h3>💻 Programming Languages</h3>
