@@ -23,7 +23,7 @@
 
 <h3>🌐 Web Technologies</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
 
 <h3>⚙️ Frameworks & Libraries</h3>
 
