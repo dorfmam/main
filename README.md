@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio+Dorfmam;I'm+a+Software+Developer;Be+Welcome!+:%29" alt="Typing SVG" style="max-width: 100%;">
 <hr>
 <h1>🌟 About Me </h1>
-<p>Welcome to my GitHub space! I'm a <strong>software developer</strong> passionate about creating <strong>innovative solutions for real-world problems</strong>. I'm on a continuous journey of learning and growth. If you're here, let's learn and grow together!</p>
+<p position: center>Welcome to my GitHub space! I'm a <strong>software developer</strong> passionate about creating <strong>innovative solutions for real-world problems</strong>. I'm on a continuous journey of learning and growth. If you're here, let's learn and grow together!</p>
 <hr>
 <h2>🖥️ Education & Interests</h2>
 <ul>
