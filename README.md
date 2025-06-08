@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio+Dorfmam;I'm+a+Software+Developer;Be+Welcome!+:%29" alt="Typing SVG" style="max-width: 100%;">
 <hr>
 <h1>🌟 About Me </h1>
-<p position: center>Welcome to my GitHub space! I'm a <strong>software developer</strong> passionate about creating <strong>innovative solutions for real-world problems</strong>. I'm on a continuous journey of learning and growth. If you're here, let's learn and grow together!</p>
+<p>Welcome to my GitHub space! I'm a <strong>software developer</strong> passionate about creating <strong>innovative solutions for real-world problems</strong>. I'm on a continuous journey of learning and growth. If you're here, let's learn and grow together!</p>
 <hr>
 <h2>🖥️ Education & Interests</h2>
 <ul>
@@ -13,7 +13,7 @@
 </ul>
 <hr>
 <h2>📊 My Statistics</h2>
-<img width="100%" height="172px" src="https://github-readme-stats.vercel.app/api?username=dorfmam&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true" style="max-width: 100%;">
+<img width="100%" height="172px" src="https://github-readme-stats.vercel.app/api?username=dorfmam&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true" style="max-width: 85%;">
 <img width="100%" height="172px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfmam&amp;layout=compact&amp;theme=tokyonight" style="max-width: 85%;">
 <hr>
 <h2>🛠️ Technologies & Tools</h2>
