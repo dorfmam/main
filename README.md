@@ -8,8 +8,8 @@
 <h2>🖥️ Education & Interests</h2>
 <ul>
   <li>🎓 Undergraduate student in Systems Analysis and Development at Universidade Estácio de Sá</li>
-  <li>💻 Passionate about technology since childhood!</li>
-  <li>📉 Interested in Data Science and Full-Stack Development</li>
+  <li>💻 Currently focused in learn Tailwind CSS and improve skills in Node.js and React</li>
+  <li>📉 Interested in Cybersecurity and Full-Stack Development</li>
 </ul>
 <hr>
 <h2>📊 My Statistics</h2>
