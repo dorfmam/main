@@ -10,6 +10,7 @@
   <li>🎓 Undergraduate student in Systems Analysis and Development at Universidade Estácio de Sá</li>
   <li>💻 Currently focused in learn Tailwind CSS and improve skills in Node.js and React</li>
   <li>📉 Interested in Cybersecurity and Full-Stack Development</li>
+  <li>📗 My goal is to do an internship as a full-stack developer</li>
 </ul>
 <hr>
 <h2>📊 My Statistics</h2>
